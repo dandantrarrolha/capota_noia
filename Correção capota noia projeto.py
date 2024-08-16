@@ -65,7 +65,11 @@ elif pedido == 3:
 else:
     print("Opção incorreta. Digite uma das opções disponíveis")   
 
-
-
+""" em geral o trabalho está bacana, 
+tem alguns ajustes a serem feitos
+como por exemplo no tempo de animação
+em alguns pontos está muito alto.
+e no segundo bloco de condição podemos melhorar.
+"""
 
 
