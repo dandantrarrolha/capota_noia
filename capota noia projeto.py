@@ -33,13 +33,39 @@ opcao = int(input("Digite o número da opção selecionada:"))
 
 if opcao == 1:
     print("Qual lanche você gostaria?")
-
+    print("1-hotdog")
+    print("2-x-salada")
+    print("3-hamburguer")
 
 elif opcao == 2:
     print("Qual Bebida você gostaria?")   
-
+    print("1-milkshake")
+    print("2-suco")
+    print("3-refrigerante")
 elif opcao == 3:
-    print("Qual Sobremesa você gostaria?") 
+    print("Qual Sobremesa você gostaria?")
+    print("1-torta")
+    print("2-bolo")
+    print("3-churros")
 
 else:
     print("Opção incorreta. Digite uma das opções disponíveis")   
+
+pedido = int(input("Digite o número da opção selecionada:"))
+
+if pedido == 1:
+    print("obrigado pela escolha")
+
+elif pedido == 2:
+    print("obrigado pela escolha")
+
+elif pedido == 3:
+    print("obrigado pela escolha")
+
+else:
+    print("Opção incorreta. Digite uma das opções disponíveis")   
+
+
+
+
+
